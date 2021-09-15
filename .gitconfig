@@ -1,8 +1,7 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Scott Harwell
 [core]
-  editor = vi
+  editor = vim
   excludesfile = ~/.gitignore
   autocrlf = input
 [color]
@@ -11,9 +10,9 @@
   interactive = auto
   status = auto
 [init]
-  defaultBranch = master
+  defaultBranch = main
 [web]
-  browser = google-chrome
+  browser = safari
 [credential]
   helper = osxkeychain
 [push]
